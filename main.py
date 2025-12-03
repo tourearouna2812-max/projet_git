@@ -1,0 +1,2 @@
+nom = 'Arouna'
+print(nom)
