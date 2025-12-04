@@ -1,2 +1,5 @@
-nom = 'Arouna'
-print(nom)
+
+from PIL import Image
+print(" photo.jpg")
+
+
